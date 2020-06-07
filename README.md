@@ -12,8 +12,9 @@
 3. 贴图文件默认放在ImagePacks2文件夹下，可选项但推荐更新以获取更好的游戏体验。
 
 - Ps.
-1. 由于Gitee无法上传100m以上文件，所以对PVF文件进行了压缩（Script.exe）
-2. 文件更新后会尽快发布至Gitee，但由于特殊的上传机制一般会现在网盘进行更新（[地址](链接:https://pan.baidu.com/s/15PfuDtY-ony7gZBqSfWBWQ)，提取码:siv2）
+1. 由于Gitee无法上传100m以上文件，所以对PVF文件进行了压缩（Script.exe）。
+2. 文件更新后会尽快发布至Gitee，但由于特殊的上传机制一般会先在网盘进行更新（[度盘地址](https://pan.baidu.com/s/15PfuDtY-ony7gZBqSfWBWQ)，提取码:siv2）。
+3. 贴图文件现阶段属于非必选文件，但在后期PVF文件不断更新的情况下建议一起进行更新。
 
 - 贡献者
 1.  Fork 本仓库

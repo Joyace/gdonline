@@ -1,29 +1,19 @@
 # 國度online仿官方PVF介绍
 
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)
+   补丁主体是以2016年公益服 國度online 我保存的最后一个版本的PVF为底包在细节上做了大量优化，修改了部分物品和时装的贴图，使之更贴近官方；物品爆率方面做了细微的调整，主要针对高难度地图掉落粉/紫装备的提升；商城里只上架了一小部分内容，如果有时间我也会逐步测试更新，PVF全明文书写未加密，未添加任何第三方植入或推广引流内容，以分享为主希望不断吸引社区精英进行完善修改。
 
-.PVF 软件架构
+![nowloading](https://images.gitee.com/uploads/images/2020/0607/231707_a0b95bca_4767688.png "gd_nowloading.png")
 
 补丁 使用说明
+1. 客户端可以使用台服通用客户端（2.94G）版本，也可以使用老牛、梦太晓等正常客户端，推荐老牛2018年2月更新版（9.0G）。
+2. 直接下载Script.pvf文件到游戏根目录覆盖即可体验。
+3. 贴图文件默认放在ImagePacks2文件夹下，可选项但推荐更新以获取更好的游戏体验。
 
-1.  客户端可以使用台服通用客户端（2.94G）版本，也可以使用老牛、梦太晓等正常客户端，推荐老牛2018年2月更新版（9.0G）。
-2.  直接下载Script.pvf文件到游戏根目录覆盖即可体验。
-3.  贴图文件默认放在ImagePacks2文件夹下，可选项但推荐更新以获取更好的游戏体验。
+
+
 
 参与贡献
-
 1.  Fork 本仓库
 2.  新建 gdonline 分支
 3.  提交代码
 4.  新建 Script.pvf、ImagePacks2
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)

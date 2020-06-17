@@ -28,3 +28,5 @@
 2.  新建 gdonline 分支
 3.  提交代码
 4.  新建 Script.pvf、ImagePacks2
+
+fork from https://gitee.com/coolnovo/gdonline
